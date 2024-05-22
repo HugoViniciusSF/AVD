@@ -1,1 +1,16 @@
-Análise Visual de Dados
+# Análise de Dados de Vendas e Avaliações de Jogos [Além dos controles: explorando vendas e avaliações de jogos].
+
+Este repositório contém uma análise abrangente dos dados de vendas e avaliações de jogos, proporcionando uma compreensão detalhada do dinâmico universo dos videogames. Os dados presentes não apenas oferecem insights sobre o desempenho comercial dos jogos, mas também revelam as preferências dos usuários em diferentes plataformas e editores. 
+
+## Contexto
+
+A indústria de videogames tem se tornado um dos principais pilares da interação e entretenimento na vida contemporânea. O avanço tecnológico, especialmente no processamento gráfico, tem levado ao desenvolvimento de jogos cada vez mais realistas e interativos, aumentando a demanda e o interesse por essas mídias. 
+
+## Objetivo
+
+O objetivo deste projeto é fornecer uma visão abrangente do mercado de videogames, utilizando dados históricos de vendas e avaliações. 
+
+## Conteúdo do Repositório
+
+- **.ipynb**: Scripts utilizados para processar e analisar os dados.
+- **Relatórios e Visualizações [.zip]**: Visualizações gráficas que ilustram as descobertas da análise de dados.
